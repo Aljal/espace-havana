@@ -1,0 +1,48 @@
+// .images-container {
+//   padding: 40px;
+//   .image-container {
+//     display: flex;
+//     border-bottom: 1px solid white;
+//     p {
+//       line-height: 64px;
+//       word-spacing: 5px;
+//       font-size: 40px;
+//       font-weight: 100;
+//       margin: auto;
+//     }
+//   }
+//   .between {
+//     justify-content: space-between;
+//     :last-child {
+//       margin-left: 32px;
+//     }
+//   }
+//   .right {
+//     justify-content: flex-end;
+//     border-bottom-right-radius: 32px;
+//     border-top-right-radius: 32px;
+//     margin-left: 32px;
+//     img {
+//       border-bottom-right-radius: 32px;
+//       border-top-right-radius: 32px;
+//     }
+//   }
+//   .left {
+//     justify-content: flex-start;
+//     border-top-left-radius: 32px;
+//     border-bottom-left-radius: 32px;
+//     margin-right: 32px;
+//     img {
+//       border-top-left-radius: 32px;
+//       border-bottom-left-radius: 32px;
+//     }
+//     p {
+//       text-align: right;
+//     }
+//   }
+//   img {
+//     height: 600px;
+//     border: 1px solid white;
+//     margin: -1px 0;
+//   }
+// }
