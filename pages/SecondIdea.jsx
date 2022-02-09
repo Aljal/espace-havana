@@ -7,16 +7,16 @@ export const SecondIdea = () => {
     <div className="container">
       <div className="images-container">
         <div className="first">
-          <img src="../resources/elephant.jpeg" alt="elephant paint" />
-          <img src="../resources/2_femmes_main_blue.jpeg" alt="two women paint" />
-          <img src="../resources/femme_multicolor.jpeg" alt="multicolor woman paint" />
-          <img src="../resources/femme_penche_main_orange_black.jpeg" alt="women orange color" />
+          <img src="../public/elephant.jpeg" alt="elephant paint" />
+          <img src="../public/2_femmes_main_blue.jpeg" alt="two women paint" />
+          <img src="../public/femme_multicolor.jpeg" alt="multicolor woman paint" />
+          <img src="../public/femme_penche_main_orange_black.jpeg" alt="women orange color" />
         </div>
         <div className="second">
-          <img src="../resources/visage_ville_lunette.jpeg" alt="face city glass" />
-          <img src="../resources/walking_african_people.jpeg" alt="walking african peopple" />
-          <img src="../resources/abstract_art_multicolor.jpeg" alt="elephant paint" />
-          <img src="../resources/abstract_art_circle.jpeg" alt="elephant paint" />
+          <img src="../public/visage_ville_lunette.jpeg" alt="face city glass" />
+          <img src="../public/walking_african_people.jpeg" alt="walking african peopple" />
+          <img src="../public/abstract_art_multicolor.jpeg" alt="elephant paint" />
+          <img src="../public/abstract_art_circle.jpeg" alt="elephant paint" />
         </div>
       </div>
       <div className="text">
@@ -38,8 +38,8 @@ export const SecondIdea = () => {
             <div className="brand">Facebook</div>
           </a>
           <a href="https://www.instagram.com/espace_havana" className="instagram button">
-            <img className="logo" src="../resources/instagram_logo.png" alt="instagram logo" />
-            <img className="profil-picture" src="../resources/instagram.jpg" alt="instagram profil picture" />
+            <img className="logo" src="../public/instagram_logo.png" alt="instagram logo" />
+            <img className="profil-picture" src="../public/instagram.jpg" alt="instagram profil picture" />
             <div className="brand"><span>Instagram</span></div>
           </a>
         </div>
